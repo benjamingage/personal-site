@@ -1,0 +1,65 @@
+#header{
+width: 620px;
+height:305px;
+background-color: #000000;
+margin-left: auto;
+margin-right: auto;
+border-bottom: 1px solid #D8D8D8;
+}
+
+#identification{
+width: 500px;
+height:180px;
+display:block;
+background-color: #c9c9c9;
+margin-left: auto;
+margin-right: auto;
+}
+
+#handsome-dude{
+	width:138px;
+	height:138px;
+	margin-top: 20px;
+	float:left;
+	border-radius:50%;
+	background-color: #000;
+	background-repeat:no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+#name{
+	width:350px;
+	margin-top: 30px;
+	height:auto;
+	background-color: #bababa;
+	float:right;
+}
+
+h1{
+	margin-left:30px;
+	color:#33495F;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 600;
+	font-size: 28px;
+}
+
+.social-links{
+	width:340px;
+	height: 36px;
+	background-color: #ababab;
+}
+
+.social-icon{
+	margin-left:30px;
+	/* background-color: #000000; */
+
+}
+
+a{
+	color:inherit;
+	text-decoration: none;
+	line-height: normal;
+	padding-right: 20px;
+	margin-top: auto;
+}
