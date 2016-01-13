@@ -11,7 +11,7 @@ border-bottom: 1px solid #D8D8D8;
 width: 500px;
 height:140px;
 display:block;
-background-color: #c9c9c9;
+/*background-color: #c9c9c9;*/
 margin-left: auto;
 margin-right: auto;
 top:83px;
@@ -23,7 +23,6 @@ position:relative;
 	height:138px;
 	float:left;
 	border-radius:50%;
-	background-color: #000;
 	background-repeat:no-repeat;
 	background-position: center center;
 	background-size: cover;
@@ -33,7 +32,7 @@ position:relative;
 	width:350px;
 	margin-top: 15px;
 	height:auto;
-	background-color: #bababa;
+	/*background-color: #bababa;*/
 	float:right;
 }
 
@@ -48,7 +47,7 @@ h1{
 .social-links{
 	width:340px;
 	height: 28px;
-	background-color: #ababab;
+	/*background-color: #ababab;*/
 }
 
 .social-icon{
@@ -61,7 +60,7 @@ a{
 	color:inherit;
 	text-decoration: none;
 	line-height: normal;
-	padding-right: 20px;
+	padding-right: 35px;
 	margin-top: auto;
 }
 
@@ -83,7 +82,7 @@ a{
 	height:auto;
 	margin-top:35px;
 	text-decoration: none;
-	border: 1px solid #dadada;
+	/*border: 1px solid #dadada;*/
 	margin-left: auto;
 	margin-right: auto;
 
@@ -101,4 +100,5 @@ a{
 	font-weight: 200;
 	text-align: center;
 	line-height:1.8em;
+	letter-spacing: .05em;
 }
