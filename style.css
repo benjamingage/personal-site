@@ -89,6 +89,12 @@ a{
 
 }
 
+#about-me a{
+	text-decoration:none;
+	color: #6EC59B;
+	padding:0;
+}
+
 #about-me p{
 	color:#33495F;
 	font-family: 'Source Sans Pro', sans-serif;
