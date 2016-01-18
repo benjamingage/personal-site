@@ -51,8 +51,9 @@ h1{
 }
 
 .social-icon{
-	margin-left:30px;
-	/* background-color: #000000; */
+	position: absolute;
+	margin-left: 30px;
+	height:28px;
 
 }
 
@@ -168,8 +169,8 @@ a:hover {
 [data-tooltip]:after {
   z-index: 1000;
   padding: 8px 8px 8px 30px;
-  width: 190px;
-  margin-top: 15px;
+  width: 200px;
+  margin-top: 20px;
   border-radius: 5px;
   border: 1px solid #eaeaea;
   background-color: #ffffff;
@@ -229,9 +230,9 @@ a:hover {
 /* Bottom */
 .tooltip-bottom:before,
 .tooltip-bottom:after {
-  top: 2em;
+  top: 100%;
   bottom: auto;
-  left: -2em;
+  left: -20px;
 }
 
 .tooltip-bottom:before {
